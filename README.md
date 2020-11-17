@@ -11,3 +11,5 @@ git checkout
 git merge
 more git merge
 fast forward merge new
+more git merge new here
+fast forward merge
