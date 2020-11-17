@@ -8,3 +8,4 @@
 -git config
 -git log
 git checkout 
+git merge
