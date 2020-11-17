@@ -10,4 +10,4 @@
 git checkout 
 git merge
 more git merge
-fast forward merge
+fast forward merge new
