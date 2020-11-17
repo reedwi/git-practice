@@ -1,8 +1,10 @@
-#Practice repository to start learning Git
+##Practice repository to start learning Git
 
-#Commands used
+##Commands used
 -git init:
+
 -git status:
+
 -git add:
 -git commit
 -git config
@@ -16,3 +18,5 @@ more git merge new here
 git remote
 git push
 another change
+change in VS
+git pull
