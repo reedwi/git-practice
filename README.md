@@ -13,3 +13,5 @@ more git merge
 fast forward merge new
 more git merge new here
 -git branch -c: create a branch
+git remote
+git push
