@@ -7,3 +7,4 @@
 -git commit
 -git config
 -git log
+git checkout 
