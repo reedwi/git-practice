@@ -6,3 +6,4 @@
 -git add:
 -git commit
 -git config
+-git log
