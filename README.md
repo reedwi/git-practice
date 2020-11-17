@@ -9,5 +9,5 @@
 -git log
 git checkout 
 git merge
-more git merge
+more git merge new here
 fast forward merge
